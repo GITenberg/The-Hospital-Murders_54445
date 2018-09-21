@@ -1,5 +1,8 @@
 _repo: The-Hospital-Murders_54445
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 54445-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Davis, Means
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '47880'
     url: http://www.gutenberg.org/2009/agents/47880
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54445#The-Hospital-Murders
 gutenberg_issued: '2017-03-28'
 gutenberg_type: Text
 identifiers:
