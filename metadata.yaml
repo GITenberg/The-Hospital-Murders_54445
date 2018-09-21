@@ -1,0 +1,23 @@
+_repo: The-Hospital-Murders_54445
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Davis, Means
+    gutenberg_agent_id: '47879'
+    url: http://www.gutenberg.org/2009/agents/47879
+  - agent_name: Townsend, Augusta Tucker
+    gutenberg_agent_id: '47880'
+    url: http://www.gutenberg.org/2009/agents/47880
+description: ''
+gutenberg_issued: '2017-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Hospital Murders
+url: http://www.gutenberg.org/ebooks/54445
